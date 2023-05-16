@@ -1,0 +1,16 @@
+{
+    "name": "vite-plugin-mkcert-issue-m1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "vite": "^4.3.6",
+        "vite-plugin-mkcert": "^1.15.0"
+    }
+}
